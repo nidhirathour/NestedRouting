@@ -1,0 +1,15 @@
+.mainwala {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    border: 2px solid red;
+}
+.mainwala .img{
+   margin: 0px 50px;
+}
+.mainwala .content h1{
+  text-align: center;
+}
+.mainwala table td{
+    margin: 0px 50px;
+}
